@@ -1,0 +1,19 @@
+# exclude all
+/*
+.idea
+!.gitignore
+
+# include important folders
+# need gradle
+!gradle/
+!gradlew
+!gradlew.bat
+!build.gradle
+!settings.gradle
+!gradle.properties
+
+
+# include sourcecode except generated
+!src/
+src/generated
+build
