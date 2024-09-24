@@ -1,0 +1,19 @@
+{
+    "gui.mapext.mark": "高亮区块",
+    "gui.mapext.unmark": "取消区块高亮",
+    "gui.mapext.setcolor": "设置高亮颜色",
+    "gui.mapext.cancel": "取消",
+    "gui.mapext.confirm": "确认",
+    "gui.mapext.hue": "色度",
+    "gui.mapext.saturation": "饱和度",
+    "gui.mapext.brightness": "亮度",
+    "gui.mapext.red": "红",
+    "gui.mapext.green": "绿",
+    "gui.mapext.blue": "蓝",
+    "gui.mapext.alpha": "透明度",
+    "gui.mapext.colorspace.rgb": "RGB",
+    "gui.mapext.colorspace.hsb": "HSB",
+    "gui.mapext.colorspace": "颜色空间",
+    "gui.mapext.hexlabel": "Hex:",
+    "message.mapext.no_permission": "无权限"
+}

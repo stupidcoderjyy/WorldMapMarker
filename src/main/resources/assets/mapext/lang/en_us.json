@@ -1,0 +1,19 @@
+{
+    "gui.mapext.mark": "Mark Chunk",
+    "gui.mapext.unmark": "Unmark Chunk",
+    "gui.mapext.setcolor": "Set Mark Color",
+    "gui.mapext.cancel": "Cancel",
+    "gui.mapext.confirm": "Confirm",
+    "gui.mapext.hue": "Hue",
+    "gui.mapext.saturation": "Saturation",
+    "gui.mapext.brightness": "Brightness",
+    "gui.mapext.red": "Red",
+    "gui.mapext.green": "Green",
+    "gui.mapext.blue": "Blue",
+    "gui.mapext.alpha": "Alpha",
+    "gui.mapext.colorspace.rgb": "RGB",
+    "gui.mapext.colorspace.hsb": "HSB",
+    "gui.mapext.colorspace": "Color Space",
+    "gui.mapext.hexlabel": "Hex:",
+    "message.mapext.no_permission": "No permissions"
+}

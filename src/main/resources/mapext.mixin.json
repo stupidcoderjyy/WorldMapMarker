@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8.2",
+    "package": "mapext.mixin",
+    "compatibilityLevel": "JAVA_11",
+    "mixins": ["MixinMinecraftServer", "MixinPlayerManager"],
+    "client": ["MixinWorldMapSession", "MixinGuiMap"],
+    "server": [],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
